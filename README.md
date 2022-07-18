@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="images/API_ticketmaster.png" alt="TicketMaster_events" />
+  <img src="images/API_ticketmaster.png" alt="API Ticketmaster" />
 
   &#xa0;
 
-  <!-- <a href="https://w15f_ticketmaster_events.netlify.app">Demo</a> -->
+  <!-- <a href="https://apiticketmaster.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">TicketMaster_events</h1>
+<h1 align="center">API Ticketmaster</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/w15f_ticketmaster_events?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/api-ticketmaster?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gibranalcazar/w15f_ticketmaster_events?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gibranalcazar/api-ticketmaster?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gibranalcazar/w15f_ticketmaster_events?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gibranalcazar/api-ticketmaster?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/gibranalcazar/w15f_ticketmaster_events?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/gibranalcazar/api-ticketmaster?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gibranalcazar/w15f_ticketmaster_events?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gibranalcazar/api-ticketmaster?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gibranalcazar/w15f_ticketmaster_events?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/gibranalcazar/api-ticketmaster?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gibranalcazar/w15f_ticketmaster_events?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gibranalcazar/api-ticketmaster?color=56BEB8" /> -->
 </p>
 
 Status
 
 <h4 align="center"> 
-	🚧  TicketMaster_events 🚀 Under construction...  🚧
+	🚧  API Ticketmaster 🚀 Under construction...  🚧
 </h4> 
 
 <hr>
@@ -50,20 +50,19 @@ This is an API to search for events in the markets of Ticketmaster in México, w
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Select the city;\
-:heavy_check_mark: You can see events, dates and pictures;\
-:heavy_check_mark: There is pagination applied;
+:heavy_check_mark: Select the city\
+:heavy_check_mark: You can see events, dates and pictures\
+:heavy_check_mark: There is pagination applied
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [JavaScript]
-- [HTML]
-- [CSS]
+- JavaScript
+- HTML
+- CSS
 
 ## :white_check_mark: Requirements ##
 
@@ -73,10 +72,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gibranalcazar/API-Ticketmaster
+$ git clone https://github.com/gibranalcazar/api-ticketmaster
 
 # Access
-$ cd API-Ticketmaster
+$ cd api-ticketmaster
 
 # Install Http-server if you don´t have it already
 $ npm install --global http-server
